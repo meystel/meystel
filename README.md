@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on GitHub Enterprise Server migrations, vulnerability management, identifying and mitigating security/compliance/operational inefficiencies stemming from EOL software
+- 🌱 I’m currently learning how to sleep faster
+- 💬 Ask me about leadership, project management, messaging, operations and systems reliability
+- 📫 How to reach me: Find me on <a href="https://in.meys.tel/">LinkedIn</a>
 
 <!--
 **meystel/meystel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
